@@ -9,7 +9,7 @@
 2. Instead of individually explaining each libraries to be downloaded and explaining steps involved. Just download this [environment_file](https://drive.google.com/file/d/1abW_Gi9mwDAqHC4xmZqvpmeZ3Mq17PKr/view?usp=sharing) \(it's not a virus, I promise!) and run it in your anaconda command prompt.
     - Open anaconda command prompt, once you have the anaconda distribution installed, you should be able to find it on your search bar/terminal.
     - Copy the path where the `environment file` is saved.
-    - Go to the folder where it is saved with cd C:`file path` -make sure you are in the folder where the the file is stored
+    - Go to the folder where it is saved by typing `cd C:file path` -make sure you are in the folder where the the file is stored
     - Now we need to create the environment -  - type `conda env create -f environment_file.yml`
     
  This step has activated all the libraries and the respective versions of it
