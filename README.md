@@ -4,7 +4,7 @@
 - Use pandas and Statsmodel to visualize Time Series data
 - Be able to understand and implement wide variety of forecasting techniques on time series data, while understanding the pros and cons of each model used.
 
-## 0.Before we get started
+## 0. Before we get started
 1. Install anaconda distribution with python. Just google 'anaconda download'. Install the 3.x version
 2. Instead of individually explaining each libraries to be downloaded and explaining steps involved. Just download this [environment_file](https://drive.google.com/file/d/1abW_Gi9mwDAqHC4xmZqvpmeZ3Mq17PKr/view?usp=sharing) \(it's not a virus, I promise!) and run it in your anaconda command prompt.
     - Open anaconda command prompt, once you have the anaconda distribution installed, you should be able to find it on your search bar/terminal.
