@@ -34,11 +34,11 @@ Pandas has in- built Visualization capabilities, which is based on [matplotlib](
 
 ## 4. [4-Handeling Time Series data with Pandas](https://github.com/amogghrao/Time-Series-with-python/blob/master/4.%20Time%20Series%20with%20Pandas.ipynb)
 As the name suggests, most of our data will have a datetime component to it. We will going through how to handle datetime index in python.We will be going through:
-        - DateTime Index and DateTime library
-        - Time Resampling
-        - Time Shifting
-        - Rolling and Expanding
-        - Time Series viz
+      - DateTime Index and DateTime library
+      - Time Resampling
+      - Time Shifting
+      - Rolling and Expanding
+      - Time Series viz
         
         
  -------------------------------------------In-Progress----------------------------------------------------
