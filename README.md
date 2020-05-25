@@ -32,13 +32,26 @@ Although python has various libraries which can be used for advanced data viz su
 
 Pandas has in- built Visualization capabilities, which is based on [matplotlib](https://matplotlib.org/) for easier usage. This comes at the cost of removing some customization options in the plot
 
-## 4. [4-Handeling Time Series data with Pandas](https://github.com/amogghrao/Time-Series-with-python/blob/master/4.%20Time%20Series%20with%20Pandas.ipynb)
+## 4. [Handeling Time Series data with Pandas](https://github.com/amogghrao/Time-Series-with-python/blob/master/4.%20Time%20Series%20with%20Pandas.ipynb)
 As the name suggests, most of our data will have a datetime component to it. We will going through how to handle datetime index in python.We will be going through:
       - DateTime Index and DateTime library
       - Time Resampling
       - Time Shifting
       - Rolling and Expanding
       - Time Series viz
+      
+## 4. [Introduction to Statsmodels with Smoothing Models](https://github.com/amogghrao/Time-Series-with-python/blob/master/5.%20Time%20Series%20with%20Statsmodels.ipynb)
+
+[*`statsmodels`*](https://www.statsmodels.org/stable/index.html) is a Python module that provides classes and functions for the estimation of many different statistical models, as well as for conducting statistical tests, and statistical data exploration. An extensive list of result statistics are available for each estimator. The results are tested against existing statistical packages to ensure that they are correct. 
+
+As its name implies, [*`statsmodels`*](https://www.statsmodels.org/stable/index.html) is a Python library built specifically for statistics. Statsmodels is built on top of [NumPy](https://numpy.org/), [SciPy](https://www.scipy.org/), and [matplotlib](https://matplotlib.org/), but it contains more advanced functions for statistical testing and modeling that you won't find in numerical libraries like NumPy or SciPy.
+
+In this Notebook, we will cover:
+
+- Introduction to Statsmodel
+- ETS Decomposition
+- Moving Averages
+- Holt Winters Methods
         
         
  -------------------------------------------In-Progress----------------------------------------------------
