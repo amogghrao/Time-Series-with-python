@@ -52,6 +52,8 @@ In this Notebook, we will cover:
 - ETS Decomposition
 - Moving Averages
 - Holt Winters Methods
+
+**Note:** Please download a copy of `.ipnyb` notebook and run it in your local device.Some of the markdown cells are throwing error.
         
         
  -------------------------------------------In-Progress----------------------------------------------------
