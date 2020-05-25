@@ -40,7 +40,7 @@ As the name suggests, most of our data will have a datetime component to it. We 
       - Rolling and Expanding
       - Time Series viz
       
-## 4. [Introduction to Statsmodels with Smoothing Models](https://github.com/amogghrao/Time-Series-with-python/blob/master/5.%20Time%20Series%20with%20Statsmodels.ipynb)
+## 5. [Introduction to Statsmodels with Smoothing Models](https://github.com/amogghrao/Time-Series-with-python/blob/master/5.%20Time%20Series%20with%20Statsmodels.ipynb)
 
 [*`statsmodels`*](https://www.statsmodels.org/stable/index.html) is a Python module that provides classes and functions for the estimation of many different statistical models, as well as for conducting statistical tests, and statistical data exploration. An extensive list of result statistics are available for each estimator. The results are tested against existing statistical packages to ensure that they are correct. 
 
