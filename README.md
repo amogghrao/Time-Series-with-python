@@ -55,7 +55,7 @@ In this Notebook, we will cover:
 
 **Note:** Please download a copy of `.ipnyb` notebook and run it in your local device.Some of the markdown cells are throwing error.
 
-## 6. [Introduction to Forecast models](https://github.com/amogghrao/Time-Series-with-python/blob/master/6.%20Introduction%20to%20Forecasting%20models.ipynb)
+## 6. [Introduction to Forecasting models](https://github.com/amogghrao/Time-Series-with-python/blob/master/6.%20Introduction%20to%20Forecasting%20models.ipynb)
 
 Last notebook, we focussed on fitting the model. So, the main purpose behind fitting a model is to predict what is next. What's our best guess for next month's value? For the next six months?
 
