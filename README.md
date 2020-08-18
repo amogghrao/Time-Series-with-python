@@ -65,6 +65,20 @@ We will cover the following topics, which will start with forecasting the models
 - Understand stationarity, differencing and lagging (setting stage for ARIMA models)
 
 
+## 7. [Introduction to ARIMA Models](https://github.com/amogghrao/Time-Series-with-python/blob/master/7.%20Introduction%20to%20ARIMA%20Models.ipynb)
+
+ARIMA is an acronym that stands for **A**uto**R**egressive **I**ntegrated **M**oving **A**verage. It is a generalization of the simpler AutoRegressive Moving Average and adds the notion of integration.
+
+- **AR**: Autoregression. A model that uses the dependent relationship between an observation and some number of lagged observations.<br>
+- **I**: Integrated. The use of differencing of raw observations (i.e. subtracting an observation from an observation at the previous time step) in order to make the time series stationary.<br>
+- **MA**: Moving Average. A model that uses the dependency between an observation and residual errors from a moving average model applied to lagged observations.
+Each of these components are explicitly specified in the model as a parameter.<br>
+
+A standard notation is used of ARIMA(p,d,q). The parameters of the ARIMA model are defined as follows:
+
+- **p**: The number of lag observations included in the model, also called the lag order.<br>
+- **d**: The number of times that the raw observations are differenced, also called the degree of differencing.<br>
+- **q**: The size of the moving average window, also called the order of moving average.<br>
         
         
  -------------------------------------------In-Progress----------------------------------------------------
