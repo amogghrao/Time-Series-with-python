@@ -79,6 +79,17 @@ A standard notation is used of ARIMA(p,d,q). The parameters of the ARIMA model a
 - **p**: The number of lag observations included in the model, also called the lag order.<br>
 - **d**: The number of times that the raw observations are differenced, also called the degree of differencing.<br>
 - **q**: The size of the moving average window, also called the order of moving average.<br>
+
+## 8. [Introduction to SARIMA(X) and VAR](https://github.com/amogghrao/Time-Series-with-python/blob/master/8.%20Introduction%20to%20SARIMA(X)%20and%20VAR.ipynb)
+The SARIMA and VAR models are builds upon the ARIMA model. It includes the p, q, and d parameters, but also an extra set of parameters to account for time series seasonality. This parameter set– P, Q, D, and additional parameter m–is defined as follows:
+
+- m : The seasonality of the model. For example, if the seasonality of time series is yearly, then m =12 
+- P : The order of the seasonal autoregressive model.
+- Q : The order of the seasonal moving average model.
+- D : The number of seasonal differences applied to the time series.
+
+<strong>NOTE:</strong> The statsmodels implementation of SARIMA is called SARIMAX. The “X” added to the name means that the function also supports <em>exogenous</em> regressor variables
+
         
         
  -------------------------------------------In-Progress----------------------------------------------------
