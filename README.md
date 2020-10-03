@@ -91,6 +91,5 @@ The SARIMA and VAR models are builds upon the ARIMA model. It includes the p, q,
 <strong>NOTE:</strong> The statsmodels implementation of SARIMA is called SARIMAX. The “X” added to the name means that the function also supports <em>exogenous</em> regressor variables
 
         
-        
- -------------------------------------------In-Progress----------------------------------------------------
+
     
